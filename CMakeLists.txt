@@ -70,6 +70,7 @@ else()
     set(CMAKE_CXX_FLAGS_DEBUG "-g -O0")
     set(CMAKE_CXX_FLAGS_RELEASE "-O3")
     set(CMAKE_CXX_FLAGS_RELWITHDEBINFO "-g -O3")
+    set(CMAKE_CXX_FLAGS "-msse -msse2 -msse3 -mssse3 -msse4.1 -mavx -mavx2 -msimd128")
 endif()
 
 if(MARCH_NATIVE)

@@ -1,0 +1,26 @@
+[
+{
+  "directory": "D:/Github/wirehair/build2",
+  "command": "D:\\Github\\emsdk\\upstream\\emscripten\\em++.bat -ID:/Github/wirehair/include -msse -msse2 -msse3 -mssse3 -msse4.1 -mavx -mavx2 -msimd128 -O3 -std=gnu++11 -o CMakeFiles\\wirehair.dir\\wirehair.cpp.o -c D:\\Github\\wirehair\\wirehair.cpp",
+  "file": "D:\\Github\\wirehair\\wirehair.cpp",
+  "output": "CMakeFiles\\wirehair.dir\\wirehair.cpp.o"
+},
+{
+  "directory": "D:/Github/wirehair/build2",
+  "command": "D:\\Github\\emsdk\\upstream\\emscripten\\em++.bat -ID:/Github/wirehair/include -msse -msse2 -msse3 -mssse3 -msse4.1 -mavx -mavx2 -msimd128 -O3 -std=gnu++11 -o CMakeFiles\\wirehair.dir\\gf256.cpp.o -c D:\\Github\\wirehair\\gf256.cpp",
+  "file": "D:\\Github\\wirehair\\gf256.cpp",
+  "output": "CMakeFiles\\wirehair.dir\\gf256.cpp.o"
+},
+{
+  "directory": "D:/Github/wirehair/build2",
+  "command": "D:\\Github\\emsdk\\upstream\\emscripten\\em++.bat -ID:/Github/wirehair/include -msse -msse2 -msse3 -mssse3 -msse4.1 -mavx -mavx2 -msimd128 -O3 -std=gnu++11 -o CMakeFiles\\wirehair.dir\\WirehairCodec.cpp.o -c D:\\Github\\wirehair\\WirehairCodec.cpp",
+  "file": "D:\\Github\\wirehair\\WirehairCodec.cpp",
+  "output": "CMakeFiles\\wirehair.dir\\WirehairCodec.cpp.o"
+},
+{
+  "directory": "D:/Github/wirehair/build2",
+  "command": "D:\\Github\\emsdk\\upstream\\emscripten\\em++.bat -ID:/Github/wirehair/include -msse -msse2 -msse3 -mssse3 -msse4.1 -mavx -mavx2 -msimd128 -O3 -std=gnu++11 -o CMakeFiles\\wirehair.dir\\WirehairTools.cpp.o -c D:\\Github\\wirehair\\WirehairTools.cpp",
+  "file": "D:\\Github\\wirehair\\WirehairTools.cpp",
+  "output": "CMakeFiles\\wirehair.dir\\WirehairTools.cpp.o"
+}
+]
